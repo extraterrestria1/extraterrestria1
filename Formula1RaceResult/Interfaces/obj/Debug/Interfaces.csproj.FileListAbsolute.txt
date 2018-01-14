@@ -1,0 +1,4 @@
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\Interfaces\bin\Debug\Formula1RaceResult_Interfaces.dll
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\Interfaces\bin\Debug\Formula1RaceResult_Interfaces.pdb
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\Interfaces\obj\Debug\Formula1RaceResult_Interfaces.dll
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\Interfaces\obj\Debug\Formula1RaceResult_Interfaces.pdb

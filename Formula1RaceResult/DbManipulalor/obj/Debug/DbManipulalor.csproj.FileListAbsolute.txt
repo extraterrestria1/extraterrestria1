@@ -1,0 +1,14 @@
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\obj\Debug\DbManipulalor.csprojResolveAssemblyReference.cache
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\obj\Debug\Formula1RaceResult.DbManipulalor.Properties.Resource.resources
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\obj\Debug\DbManipulalor.csproj.GenerateResource.Cache
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\bin\Debug\Formula1RaceResult_DbManipulalor.dll.config
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\bin\Debug\Formula1RaceResult_DbManipulalor.dll
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\bin\Debug\Formula1RaceResult_DbManipulalor.pdb
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\bin\Debug\EntityFramework.dll
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\bin\Debug\Formula1RaceResult_Interfaces.dll
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\bin\Debug\Formula1RaceResult_Interfaces.pdb
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\bin\Debug\EntityFramework.xml
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\obj\Debug\Formula1RaceResult_DbManipulalor.dll
+E:\Users\extraterrestrial\OneDrive\Документи\Microsoft\Visual Studio\Projects\Formula1RaceResult.DataTable\DbManipulalor\obj\Debug\Formula1RaceResult_DbManipulalor.pdb

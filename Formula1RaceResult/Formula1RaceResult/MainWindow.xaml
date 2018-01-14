@@ -1,0 +1,73 @@
+﻿<Window x:Class="Formula1RaceResult.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:properties="clr-namespace:Formula1RaceResult.Properties"
+        mc:Ignorable="d"
+        MinHeight="350"
+        MinWidth="530"
+        Width="530"
+        Height="350"
+        WindowStyle="SingleBorderWindow">
+    <Grid
+        Background="#FF999797">
+        <DockPanel
+            Name="Adress"
+            Height="23"
+            HorizontalAlignment="Stretch"
+            VerticalAlignment="Top">
+            <Label
+                Content="{x:Static properties:Resources.labelUrl}"
+                HorizontalAlignment="Left"/>
+            <TextBox
+                x:Name="TextBoxUrl"
+                Text="{x:Static properties:Resources.predefinedRaceResultUrl}" 
+                ToolTip="url"
+                Width="330"
+                VerticalContentAlignment="Center"
+                HorizontalAlignment="Right"/>
+            <Button
+                x:Name="ButtonRefresh"
+                HorizontalAlignment="Right"
+                Cursor="Hand"
+                Click="buttonRefresh_OnClick">
+                <StackPanel 
+                    Orientation="Horizontal"
+                    Width="85"
+                    Height="23">
+                    <!--
+                    <Image
+                        Source= "Resources/RefreshIcon.png"
+                        Width="18"
+                        Height="18"/>
+                    -->
+                    <TextBlock
+                        Text="{x:Static properties:Resources.buttonRefreshContent}"/>
+                </StackPanel>
+            </Button>
+        </DockPanel>
+        <DataGrid
+            x:Name="DataGrid"
+            ItemsSource="{Binding Path=GrandPrixResults, Mode=OneWay}"
+            AutoGenerateColumns="True"
+            GridLinesVisibility="None"
+            MinRowHeight="23"
+            Margin="0,28,0,27"/>
+        <DockPanel 
+            Height="22"
+            HorizontalAlignment="Stretch"
+            VerticalAlignment="Bottom">
+            <TextBlock
+                Width="437"
+                HorizontalAlignment ="Stretch"/>
+            <Button
+                x:Name="ButtonSave"
+                Content="{x:Static properties:Resources.buttonSaveContent}"
+                Background="DodgerBlue"
+                HorizontalAlignment="Right"
+                Cursor="Hand"
+                Click="buttonSave_OnClick"/>
+        </DockPanel>
+    </Grid>
+</Window>
